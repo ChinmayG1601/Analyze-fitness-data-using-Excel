@@ -1,2 +1,2 @@
 # Data-Analysis-using-Excel
-This repo contain Data analysis project using excel 
+Analyzed Fitbit fitness tracker data to deliver marketing and business solutions to WeFit and its subsidiaries
